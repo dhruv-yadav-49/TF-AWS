@@ -1,0 +1,2 @@
+This is a sample file for S3 upload.
+Hello from Antigravity!
